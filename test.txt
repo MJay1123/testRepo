@@ -4,4 +4,5 @@ minjong test
 
 abcdefg
 
+branchA 분화
 branchB 분화
